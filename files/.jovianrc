@@ -2,6 +2,9 @@
   "notebooks": {
     "jovian-test.ipynb": {
       "slug": "001a5f467d424fe0911f5fae5dbf6fed"
+    },
+    "pytorch-first-steps.ipynb": {
+      "slug": "63f51a7e3d804dad8ce98f4324f906ea"
     }
   }
 }
