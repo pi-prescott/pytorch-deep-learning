@@ -1,0 +1,8 @@
+version: "3.6"
+services:
+    jupyterlab:
+      image: ${BUILDER}/deep-learning-notebook
+      ports: 
+        - 8888:8888
+      volumes:
+        - ./files:/home/jovyan/work
